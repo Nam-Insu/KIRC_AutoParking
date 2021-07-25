@@ -25,11 +25,9 @@
 1. V-rep Simulation : C++, Lua Script
 2. ReinForce : Python
 3. DataServer : Python
-  
-## System Architecture (BEFORE)
 
   
-## System Architecture (AFTER)
+## System Architecture 
 <img src="https://user-images.githubusercontent.com/52377778/86992322-37b81c00-c1dc-11ea-9cdf-731fd7c9c73c.png" width="600" height="400" />  
   
 ## Hardware Architecture
